@@ -1,0 +1,21 @@
+body {
+    text-align: left;
+    width: 90%;
+    max-width: 50em;
+    line-height: 1.5em;
+    margin: auto;
+    background-color: lightblue;
+    color: #750000;
+}
+
+h1 h2 {
+    font-family: Arvo, serif;
+}
+
+p {
+    font-family: Lexend, sans-serif;
+}
+
+iframe {
+    max-width: 100%;
+}
